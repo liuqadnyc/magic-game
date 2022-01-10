@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/magic-game/static/css/main.126363f8.chunk.css",
-    "main.js": "/magic-game/static/js/main.63959efd.chunk.js",
-    "main.js.map": "/magic-game/static/js/main.63959efd.chunk.js.map",
+    "main.js": "/magic-game/static/js/main.79e098aa.chunk.js",
+    "main.js.map": "/magic-game/static/js/main.79e098aa.chunk.js.map",
     "runtime-main.js": "/magic-game/static/js/runtime-main.16d20551.js",
     "runtime-main.js.map": "/magic-game/static/js/runtime-main.16d20551.js.map",
     "static/js/2.471ab15b.chunk.js": "/magic-game/static/js/2.471ab15b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.16d20551.js",
     "static/js/2.471ab15b.chunk.js",
     "static/css/main.126363f8.chunk.css",
-    "static/js/main.63959efd.chunk.js"
+    "static/js/main.79e098aa.chunk.js"
   ]
 }
